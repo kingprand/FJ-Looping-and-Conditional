@@ -1,3 +1,4 @@
+### Fundamental Javascript (FJ)
 ## Objectives
 - Understand how to use `for` loop
 - Understand the logic of `if-else` statements

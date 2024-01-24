@@ -1,0 +1,11 @@
+{
+  "name": "fj-looping-and-conditional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
